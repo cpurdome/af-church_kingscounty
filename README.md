@@ -2,6 +2,7 @@
 This is a georeferenced version of an 1872 map of Kings County, Nova Scotia, originally created by Ambrose Church. The map was georeferenced using QGIS and this widget was created with Leaflet. 
 
 ## To Use
+View widget at [https://cpurdome.github.io/af-church_kingscounty/](https://cpurdome.github.io/af-church_kingscounty/).
 
 Drag the slider bar at the bottom of the project to toggle between a contemporary street map from Open Street Maps and the 1872 Kings County map. 
 
